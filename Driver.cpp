@@ -7,12 +7,6 @@
 #include <algorithm>
 #include <sstream>
 
-/*
-I had trouble linking my files together, therefore as a last attempt to 
-show that my code works at the least, I shifted all of my code to the driver
-however, all of the code in the classes can be seen as well.
-*/
-
 #include "Driver.h"
 
 Driver::Driver() 
